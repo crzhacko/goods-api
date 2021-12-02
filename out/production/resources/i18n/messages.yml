@@ -1,0 +1,8 @@
+test:
+  message: test message
+  message-with-args: 'first: {0}, second: {1}'
+
+error:
+  1001: Failed to create goods for some reason
+  1002: '{0} not found.'
+

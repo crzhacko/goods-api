@@ -1,0 +1,70 @@
+com/alice/goods/api/entity/Review.java
+ com.alice.goods.api.entity.Review
+com/alice/goods/api/dto/TestDto.java
+ com.alice.goods.api.dto.TestDto
+com/alice/goods/api/repository/TestRepository.java
+ com.alice.goods.api.repository.TestRepository
+com/alice/goods/api/repository/MemberRepository.java
+ com.alice.goods.api.repository.MemberRepository
+com/alice/goods/api/repository/GoodsRepositoryImpl.java
+ com.alice.goods.api.repository.GoodsRepositoryImpl
+com/alice/goods/api/entity/Member.java
+ com.alice.goods.api.entity.Member
+com/alice/goods/api/exception/AliceError.java
+ com.alice.goods.api.exception.AliceError
+com/alice/goods/api/data/UserInfoParam.java
+ com.alice.goods.api.data.UserInfoParam
+com/alice/goods/api/util/EncryptionUtils.java
+ com.alice.goods.api.util.EncryptionUtils
+com/alice/goods/api/entity/QReview.java
+ com.alice.goods.api.entity.QReview
+com/alice/goods/api/repository/TestGoodsRepository.java
+ com.alice.goods.api.repository.TestGoodsRepository
+com/alice/goods/api/controller/GoodsControllerV1.java
+ com.alice.goods.api.controller.GoodsControllerV1
+com/alice/goods/api/repository/TestRepositoryImpl.java
+ com.alice.goods.api.repository.TestRepositoryImpl
+com/alice/goods/api/config/SwaggerConfig.java
+ com.alice.goods.api.config.SwaggerConfig
+com/alice/goods/api/mapper/GoodsMapper.java
+ com.alice.goods.api.mapper.GoodsMapper
+com/alice/goods/api/entity/QGoods.java
+ com.alice.goods.api.entity.QGoods
+com/alice/goods/api/GoodsApiApplication.java
+ com.alice.goods.api.GoodsApiApplication
+com/alice/goods/api/dto/AliceResponse.java
+ com.alice.goods.api.dto.AliceResponse
+com/alice/goods/api/config/MessageSourceConfig.java
+ com.alice.goods.api.config.MessageSourceConfig
+ com.alice.goods.api.config.MessageSourceConfig$YamlMessageSource
+com/alice/goods/api/entity/QMember.java
+ com.alice.goods.api.entity.QMember
+com/alice/goods/api/controller/GoodsControllerV2.java
+ com.alice.goods.api.controller.GoodsControllerV2
+com/alice/goods/api/repository/GoodsRepositoryCustom.java
+ com.alice.goods.api.repository.GoodsRepositoryCustom
+com/alice/goods/api/entity/Goods.java
+ com.alice.goods.api.entity.Goods
+com/alice/goods/api/dto/GoodsDto.java
+ com.alice.goods.api.dto.GoodsDto
+ com.alice.goods.api.dto.GoodsDto$GoodsDtoBuilder
+com/alice/goods/api/service/GoodsService.java
+ com.alice.goods.api.service.GoodsService
+com/alice/goods/api/repository/GoodsRepository.java
+ com.alice.goods.api.repository.GoodsRepository
+com/alice/goods/api/service/impl/GoodsServiceImpl.java
+ com.alice.goods.api.service.impl.GoodsServiceImpl
+com/alice/goods/api/util/MessageUtils.java
+ com.alice.goods.api.util.MessageUtils
+com/alice/goods/api/exception/FailedToCreateGoodsException.java
+ com.alice.goods.api.exception.FailedToCreateGoodsException
+com/alice/goods/api/exception/ControllerAdvice.java
+ com.alice.goods.api.exception.ControllerAdvice
+com/alice/goods/api/exception/AliceApiException.java
+ com.alice.goods.api.exception.AliceApiException
+com/alice/goods/api/util/ValidatorUtils.java
+ com.alice.goods.api.util.ValidatorUtils
+com/alice/goods/api/service/impl/TestGoodsService.java
+ com.alice.goods.api.service.impl.TestGoodsService
+com/alice/goods/api/exception/GoodsNotFoundException.java
+ com.alice.goods.api.exception.GoodsNotFoundException

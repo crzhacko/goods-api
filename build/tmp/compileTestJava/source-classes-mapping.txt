@@ -1,0 +1,14 @@
+com/alice/goods/api/repository/GoodsRepositoryTest.java
+ com.alice.goods.api.repository.GoodsRepositoryTest
+com/alice/goods/api/util/MessageUtilsTest.java
+ com.alice.goods.api.util.MessageUtilsTest
+com/alice/goods/api/exception/AliceApiExceptionTest.java
+ com.alice.goods.api.exception.AliceApiExceptionTest
+com/alice/goods/api/GoodsApiApplicationTests.java
+ com.alice.goods.api.GoodsApiApplicationTests
+com/alice/goods/api/controller/GoodsControllerTest.java
+ com.alice.goods.api.controller.GoodsControllerTest
+com/alice/goods/api/config/MessageSourceTest.java
+ com.alice.goods.api.config.MessageSourceTest
+com/alice/goods/api/service/GoodsServiceTest.java
+ com.alice.goods.api.service.GoodsServiceTest
